@@ -4,6 +4,7 @@
 .DS_Store
 .coverage
 .idea
+.noseids
 __pycache__
 build
 dist
